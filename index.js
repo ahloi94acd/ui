@@ -45,7 +45,7 @@ export { default as RichMedia } from './components/RichMedia';
 export { Html } from './html';
 export { SimpleHtml } from './html';
 export { ShareButton } from './components/ShareButton';
-export { LinearGradient } from './components/LinearGradient';
+// export { LinearGradient } from './components/LinearGradient';
 
 export {
   Heading,
