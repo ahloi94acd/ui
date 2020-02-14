@@ -77,7 +77,7 @@ class NavigationBar extends PureComponent {
     const { style } = this.props;
 
     return Device.select({
-      iPhoneX: (<View style={style.statusBar} />),
+      // iPhoneX: (<View style={style.statusBar} />),
       default: null,
     });
   }
