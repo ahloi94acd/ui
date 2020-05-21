@@ -42,8 +42,8 @@ export { HorizontalPager } from './components/HorizontalPager';
 export { LoadingIndicator } from './components/LoadingIndicator';
 export { PageIndicators } from './components/PageIndicators';
 export { default as RichMedia } from './components/RichMedia';
-export { Html } from './html';
-export { SimpleHtml } from './html';
+// export { Html } from './html';
+// export { SimpleHtml } from './html';
 export { ShareButton } from './components/ShareButton';
 // export { LinearGradient } from './components/LinearGradient';
 

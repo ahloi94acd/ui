@@ -1,6 +1,6 @@
 {
   "name": "@shoutem/ui",
-  "version": "0.23.22",
+  "version": "0.23.23",
   "description": "Styleable set of components for React Native applications",
   "dependencies": {
     "@shoutem/animation": "~0.12.3",
@@ -12,7 +12,6 @@
     "htmlparser2": "~3.9.0",
     "lodash": "~4.17.4",
     "qs": "~4.0.0",
-    "react-native-render-html": "~4.1.2",
     "react-native-lightbox": "shoutem/react-native-lightbox#v0.7.2",
     "react-native-linear-gradient": "~2.4.0",
     "react-native-transformable-image": "shoutem/react-native-transformable-image#v0.0.20",
